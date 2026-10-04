@@ -31,6 +31,10 @@ namespace Buoi2
             if (phanSoA < phanSoB) {
                 Console.WriteLine("Phan so A nho hon phan so b");
             }
+
+            Bai1.Run1();
+            Bai2.Run2();
+            Bai3.Run3();
         }
     }
 }
